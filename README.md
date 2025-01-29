@@ -31,6 +31,6 @@
 1. ![image](https://github.com/user-attachments/assets/2f7b5e72-8cf6-4b70-b845-5874e61b646d)
 2. ![image](https://github.com/user-attachments/assets/2e265508-adad-4f9b-9984-959b5ea032d6)
 3. ![image](https://github.com/user-attachments/assets/5a695b66-b5df-428f-be8e-c240202562d4)
-4. 
 
-
+# Сайт для хоста
+ссыкла на сайт. https://www.reg.ru/?utm_source=yandex:search&utm_medium=cpc&utm_campaign=reg.ru_master&utm_term=---autotargeting&utm_content=none%7C5493355661%7C16504080060%7Cpremium%7C1&yclid=11409611690729799679
