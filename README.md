@@ -26,4 +26,11 @@
 8. ![image](https://github.com/user-attachments/assets/e7528fa2-1e09-4689-ad6a-ff9a043eb7fe)
 9. ![image](https://github.com/user-attachments/assets/dd8e37a2-b77b-4717-8351-a1405f1d9bf9)
 10. На этапе брифинга можно определить,какой будет заказчик по характеру и найти к нему правильный подход
-11. 
+
+# Пример договора(Очень важно!!!)
+1. ![image](https://github.com/user-attachments/assets/2f7b5e72-8cf6-4b70-b845-5874e61b646d)
+2. ![image](https://github.com/user-attachments/assets/2e265508-adad-4f9b-9984-959b5ea032d6)
+3. ![image](https://github.com/user-attachments/assets/5a695b66-b5df-428f-be8e-c240202562d4)
+4. 
+
+
