@@ -14,5 +14,16 @@
 2. в CRM системе хранятся договоры,инф об оплате,она может сама перезванивать клиентам в общем ицелом упрощает жизнь_)
 3. При удаление страницы статистика обнуляется,цена в месяц 750р/в год 12к рублей по скидону ЙОУ)
 4. Так же можно записать к специалисту оставив свою почту,который будет обучать работать с сайтом
-5. 
-. 
+
+# Условия
+1. ![image](https://github.com/user-attachments/assets/af3a1662-f23f-4461-a2ff-c04b5dd95b31)
+2. ![image](https://github.com/user-attachments/assets/7fff105b-a496-4723-99a4-d37466d03633)
+3. ![image](https://github.com/user-attachments/assets/fc63761c-a95d-42d3-8afd-cd2e108378be)
+4. ![image](https://github.com/user-attachments/assets/38aa51e6-86a6-4983-9d02-f1a46394b634)
+5. Предпочтения по шрифтам ![image](https://github.com/user-attachments/assets/98da59da-3b38-417d-afb4-19cda7bdea11)
+6. ![image](https://github.com/user-attachments/assets/06a07986-3fad-473c-81f4-158a1dd5d71c) 
+7. ![image](https://github.com/user-attachments/assets/2497b160-b280-4b7a-b54a-a901d64e841d)
+8. ![image](https://github.com/user-attachments/assets/e7528fa2-1e09-4689-ad6a-ff9a043eb7fe)
+9. ![image](https://github.com/user-attachments/assets/dd8e37a2-b77b-4717-8351-a1405f1d9bf9)
+10. На этапе брифинга можно определить,какой будет заказчик по характеру и найти к нему правильный подход
+11. 
